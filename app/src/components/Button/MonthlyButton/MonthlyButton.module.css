@@ -1,0 +1,59 @@
+.default {
+  padding: 16px;
+  color: black;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+}
+
+.All {
+  background-color: #f2f2f2; /* Pastel grey */
+}
+
+.January {
+  background-color: #fad9dc; /* Pastel pink */
+}
+
+.February {
+  background-color: #d9e8fb; /* Pastel blue */
+}
+
+.March {
+  background-color: #ddf8d9; /* Pastel green */
+}
+
+.April {
+  background-color: #fae7c8; /* Pastel yellow */
+}
+
+.May {
+  background-color: #f8d7fa; /* Pastel purple */
+}
+
+.June {
+  background-color: #d9faf2; /* Pastel turquoise */
+}
+
+.July {
+  background-color: #fae9d9; /* Pastel peach */
+}
+
+.August {
+  background-color: #fadfd7; /* Pastel coral */
+}
+
+.September {
+  background-color: #e5fad7; /* Pastel lime */
+}
+
+.October {
+  background-color: #e7d9fa; /* Pastel lavender */
+}
+
+.November {
+  background-color: #fad7e7; /* Pastel rose */
+}
+
+.December {
+  background-color: #e3e6fa; /* Pastel blue-violet */
+}
